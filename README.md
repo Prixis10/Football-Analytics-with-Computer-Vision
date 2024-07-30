@@ -27,8 +27,8 @@ This project uses the following tech stack:
 ## 🖼️ Screenshots
 
 ### Screenshots of the output video
-![Screenshot1](Screenshot1.png)
-![Screenshot2](Screenshot2.png)
+![Screenshot1](Screenshot1.jpg)
+![Screenshot2](Screenshot2.jpg)
 
 ## 🚀 Getting Started
 
