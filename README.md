@@ -26,11 +26,9 @@ This project uses the following tech stack:
 
 ## 🖼️ Screenshots
 
-### Screenshot 1
-![Screenshot1](https://github.com/Prixis10/Football-Analytics-with-Computer-Vision/blob/main/Screenshot1.png)
-
-### Screenshot 2
-![Screenshot2](https://github.com/Prixis10/Football-Analytics-with-Computer-Vision/blob/main/Screenshot2.png)
+### Screenshots of the output video
+![Screenshot1](Screenshot1.png)
+![Screenshot2](Screenshot2.png)
 
 ## 🚀 Getting Started
 
