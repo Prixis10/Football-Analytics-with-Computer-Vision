@@ -2,11 +2,11 @@
 
 ## 📸 Screenshots
 ### Screenshot 1
-![Screenshot 1](./Screenshot1.jpg)
+![Screenshot 1](Screenshot1.jpg)
 *Description: A snapshot of the system detecting and tracking players on the field.*
 
 ### Screenshot 2
-![Screenshot 2](./Screenshot2.jpg)
+![Screenshot 2](Screenshot2.jpg)
 *Description: Visualization of player segmentation and speed/distance calculations.*
 
 ## 📖 Overview
